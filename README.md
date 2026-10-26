@@ -64,5 +64,23 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Massenversand is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://massenversand.de/
+Massenversand provides an online SMS gateway and messaging platform in Germany, offering SMS sending via API, email-to-SMS, and web interface. It supports bulk messaging, two‑factor authentication, appointment reminders, and marketing campaigns with features like scheduling, templates, and personalization. Users can test the service for free and integrate the SMS Gateway API quickly without additional software.
+
+**Areas:** SMS · Messaging · API · Marketing · Germany · Communication
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.massenversand.de/)
+- [Documentation](https://www.massenversand.de/sms-api/)
+- [Getting started](https://www.massenversand.de/testen/)
+- [API reference](https://www.massenversand.de/sms-api/)
+- [Pricing](https://www.massenversand.de/preise/)
+- [Support](https://www.massenversand.de/support/)
+- [Blog](https://www.massenversand.de/blog/)
+- [Status](https://status.massenversand.de/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/massenversand/](https://apis.io/providers/massenversand/).
